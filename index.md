@@ -1,5 +1,3 @@
-
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -100,5 +98,3 @@
 <hr width = "70%" color ="#F0921B" size = "3">
 <center>&copy; 沒有版權，學習用，如有侵權請告知</center>
 
-</body>
-</html>
